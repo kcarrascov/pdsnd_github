@@ -12,7 +12,7 @@ chicago.csv
 new_york_city.csv
 washington.csv
 .gitignorate
-README.mb
+README.md
 Proyecto.Udacity.ipnyb
 
 ### Credits
