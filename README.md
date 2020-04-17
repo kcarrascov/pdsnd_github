@@ -1,15 +1,21 @@
 ### Date created
-Include the date you created this project and README file.
+2020-04-16
 
 ### Project Title
-Replace the Project Title
+Github Project: Git Commands Documentation Template
 
 ### Description
-Describe what your project is about and what it does
+the project consists of handling git and different commands to generate different operations with files in the local repository
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
+.gitignorate
+README.mb
+Proyecto.Udacity.ipnyb
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.hostinger.es/tutoriales/comandos-de-git
+https://git-scm.com/docs/gittutorial/1.8.2.1
 
